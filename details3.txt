@@ -1,0 +1,16 @@
+list of Accounts are:
+name           :bhaskar
+Account Type   :savings
+Account Number :1411155
+Aadhar Number  :14564515
+Account balance:20000.00
+Mobile Number  :9494743811
+
+list of Accounts are:
+name           :perumal
+Account Type   :current
+Account Number :1411156
+Aadhar Number  :4655644
+Account balance:10000.00
+Mobile Number  :9441995486
+

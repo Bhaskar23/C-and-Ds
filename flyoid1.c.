@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+    int i,space,a;
+    printf("Enter a value:");
+    scanf("%d",&a);
+    for(i=0;i<=a;i++)
+    {
+        for(space=0;space<i;space++)
+        {
+            printf("%d",i);
+        }
+        printf("\n");
+    }
+    return 0;
+    
+
+}
